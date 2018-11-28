@@ -209,7 +209,7 @@ int board::get_numberOfSquares() const
 square * board::get_starting_square()
 {
 	int i = 0;
-	char k = 135;
+
 
 	if (i = 1)
 		printf("Dead \n");
