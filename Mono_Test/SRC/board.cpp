@@ -211,7 +211,7 @@ square * board::get_starting_square()
 	int i = 0;
 
 
-	if (i = 1)
+	if (i == 1)
 		printf("Dead \n");
 	else
 		printf("New Demo \n");
